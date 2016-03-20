@@ -1,0 +1,16 @@
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\BowlMaster.Test.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\BowlMaster.Test.pdb
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\Assembly-CSharp.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEditor.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.Networking.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.UI.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\Assembly-CSharp.pdb
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEditor.xml
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.xml
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.Networking.xml
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\bin\Debug\UnityEngine.UI.xml
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\obj\Debug\BowlMaster.Test.csprojResolveAssemblyReference.cache
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\obj\Debug\BowlMaster.Test.dll
+E:\unity\unity projects\BowlingAlley\BowlMaster.Test\obj\Debug\BowlMaster.Test.pdb
